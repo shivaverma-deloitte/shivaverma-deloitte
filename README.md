@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shivank Verma
 - 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Web Development (CSS and JavaScript)
+- 🌱 I’m currently learning Web Development (HTML,CSS,JavaScript & Angular)
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me: [LinkedIn](https://in.linkedin.com/in/shivank8) and  Email: shivaverma@deloitte.com
 
